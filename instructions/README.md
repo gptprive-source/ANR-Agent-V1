@@ -6,3 +6,4 @@
 4. Tu découpes chaque fonctionnalité en petites tâches simples.
 5. Chaque tâche doit être testée et validée avant de passer à la suivante.
 6. Le backend et frontend doivent rester propres, séparés.
+7. Toute nouvelle fonctionnalité doit être ajoutée **uniquement** dans ce repo agent.
